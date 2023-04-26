@@ -1,0 +1,22 @@
+.VideoContainer{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    height: 500px;
+    width: 100%;
+    border-radius: 20px;
+}
+iframe{
+    border-radius: 10px;
+    box-shadow: 1px 10px 10px 1px rgba(0, 0, 0, 0.598);
+}
+
+
+@media  (max-width:614px) {
+    iframe{
+        border-radius: 10px;
+        box-shadow: 1px 10px 10px 1px rgba(0, 0, 0, 0.598);
+        width: 100%;
+    }
+}

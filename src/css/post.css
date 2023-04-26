@@ -1,0 +1,11 @@
+.Containerpost{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 20px;
+    background-color: rgb(215, 225, 240);
+    border-radius: 20px;
+    padding: 10px;
+}
+.Containerpost > h3{
+    text-align: center;
+    border-bottom: 1px  solid black;
+}

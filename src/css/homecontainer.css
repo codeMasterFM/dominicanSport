@@ -1,0 +1,21 @@
+.HomeContainer{
+    display: flex;
+    padding: 20px;
+}
+.homeContent{
+    flex: 5;
+}
+
+.Homeadds{
+    flex: 2;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+@media  (max-width:1000px) {
+    .HomeContainer{
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+}
