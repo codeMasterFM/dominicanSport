@@ -1,4 +1,4 @@
-import Nav from '../components/nav'
+import Nav from '../components/Nav'
 import ListPost from '../components/ListPost'
 import Video from '../components/Video'
 import '../css/homecontainer.css'
