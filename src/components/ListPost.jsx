@@ -1,4 +1,4 @@
-import Post from "./post";
+import Post from "./Post";
 import '../css/ListPost.css'
 
 const ListPost = () => {
