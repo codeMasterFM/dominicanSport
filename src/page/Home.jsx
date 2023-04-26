@@ -3,7 +3,7 @@ import ListPost from '../components/ListPost'
 import Video from '../components/Video'
 import '../css/homecontainer.css'
 import Adds from '../components/Adds'
-const Home = () => {
+export const Home = () => {
   return (
     <div>
         <Nav/>
@@ -20,4 +20,3 @@ const Home = () => {
   )
 }
 
-export default Home
