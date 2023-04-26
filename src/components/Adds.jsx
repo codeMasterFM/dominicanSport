@@ -1,4 +1,3 @@
-import React from 'react'
 import '../css/adds.css'
 const Adds = () => {
   return (

@@ -1,4 +1,3 @@
-import React from 'react'
 import Nav from '../components/nav'
 import ListPost from '../components/ListPost'
 import Video from '../components/Video'
