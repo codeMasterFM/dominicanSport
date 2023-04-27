@@ -11,7 +11,7 @@ setState(iframe.url)
   return <div className="VideoContainer">
     <h2>Estream </h2>
     <p>Aqui se muestran los partidos en vivo</p>
-    <iframe src={getUrl} width="640" height="360">hola</iframe>
+    <iframe src={getUrl} width="640" height="360" allowFullScreen="true" allowfullscreen="true" allow="autoplay">hola</iframe>
   </div>;
 };
 
