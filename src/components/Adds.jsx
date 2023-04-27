@@ -22,7 +22,7 @@ const Adds = () => {
   return (
     <div className="ad-banner">
       <div id="ad-container"></div>
-      <div>Adds</div>
+      <div><h1>Adds</h1></div>
     </div>
   );
 };

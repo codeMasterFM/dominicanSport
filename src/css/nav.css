@@ -9,6 +9,8 @@ nav{
     color: aliceblue;
     text-shadow: 3px 3px 3px rgb(51, 0, 255);
     animation: textcolor 3s ease-in-out forwards infinite;
+    display: flex;
+    justify-content: space-between;
 }
 
 @keyframes textcolor {
