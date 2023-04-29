@@ -8,10 +8,10 @@
 
 .Homeadds{
     flex: 2;
-    background-color: rgb(218, 246, 246);
+    background-color: rgb(249, 249, 249);
     border-radius: 20px;
     text-align: center;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     text-shadow: 3px 3px 30px rgb(0, 0, 0);
 }
 
