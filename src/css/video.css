@@ -12,6 +12,13 @@ iframe{
     box-shadow: 1px 10px 10px 1px rgba(0, 0, 0, 0.598);
 }
 
+#Fullscreen{
+    background-color: black;
+    color: aliceblue;
+    bottom: 90px;
+    height: 30px;
+    border-radius: 5%;
+}
 
 @media  (max-width:614px) {
     iframe{
