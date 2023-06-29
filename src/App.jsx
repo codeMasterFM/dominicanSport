@@ -1,9 +1,16 @@
-import { Home } from "./page/Home"
+import MlbVideo from "./page/MlbVideo"
+import { Home } from "./page/home"
+import {Routes,BrowserRouter,Route} from 'react-router-dom'
+
 const App = () => {
   return (
-    <>
-    <Home/>
-    </>
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home/>}/>
+      <Route path="Video" element={<MlbVideo/>}/>
+    </Routes>
+    </BrowserRouter>
+
   )
 }
 

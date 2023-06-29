@@ -1,0 +1,17 @@
+#iframe-container {
+  width: 100%; /* Ancho deseado del área visible */
+  height: 500px; /* Alto deseado del área visible */
+  overflow: hidden; /* Ocultar el contenido fuera del área visible */
+  position: relative; /* Permitir posicionar el iframe dentro del contenedor */
+  overflow: hidden;
+}
+
+#iframe-container iframe {
+  position: absolute; /* Posicionar el iframe dentro del contenedor */
+  top: -550px; /* Ajustar la posición vertical para mostrar la sección deseada */
+  left: -100px;
+  bottom: 1000px; /* Ajustar la posición horizontal para mostrar la sección deseada */
+  width: 80%; /* Ancho total del contenido del iframe */
+  height: 1000px; /* Alto total del contenido del iframe */
+  overflow: hidden;
+}
