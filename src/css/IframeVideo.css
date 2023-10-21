@@ -7,11 +7,7 @@
 }
 
 #iframe-container iframe {
-  position: absolute; /* Posicionar el iframe dentro del contenedor */
-  top: -550px; /* Ajustar la posición vertical para mostrar la sección deseada */
-  left: -100px;
-  bottom: 1000px; /* Ajustar la posición horizontal para mostrar la sección deseada */
-  width: 80%; /* Ancho total del contenido del iframe */
-  height: 1000px; /* Alto total del contenido del iframe */
+  height: 60Vh; /* Alto total del contenido del iframe */
+  width: 100vh;
   overflow: hidden;
 }

@@ -6,7 +6,7 @@ import Nav from '../components/Nav'
 import IframeVideo from '../components/IframeVideo'
 
 const MlbVideo = () => {
-  const [Getparam,Setparam]= useState("players/san-diego-padres-at-pittsburgh-pirates-home/")
+  const [Getparam,Setparam]= useState("https://mega.nz/embed/8atx0AiK#UwNLvWDRHUd4P2exJhKSOYfJa42J4XESq9qR4cRqlPs" )
   useEffect(()=>{
     const urlparam = new URLSearchParams(window.location.search)
     const myparam = urlparam.get("url")

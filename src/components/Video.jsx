@@ -23,7 +23,7 @@ const FullScrean = ()=>{
       ref={refiframe}
      
         allow="encrypted-media"
-        src="https://clarovideo.auronplaylive.repl.co/?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQT1JUU19QUkVNSVVNX0hEKS9tYW5pZmVzdC5tcGQ=&key=OTFhMjFmN2ZmYzAzYjNlNDZmZTM0OGRkMDc1NTc1OGU=&key2=NWZlNjBmZDc3ZGZhNjFkYmY0MWQxYTBhYzk1OTYyMWQ=&aut=true&lang=0"
+        src="https://www.youtube.com/embed/9ZUXZcyrewk?si=SCPE_fbcq8_BEns3"
         width="670"
         height="400"
         allowFullScreen="true"
